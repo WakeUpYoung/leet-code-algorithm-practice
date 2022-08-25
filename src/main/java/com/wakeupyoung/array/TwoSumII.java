@@ -56,6 +56,7 @@ public class TwoSumII implements Solution<List<Integer>, Input> {
         System.out.println(Arrays.toString(resolve.toArray()));
 
     }
+
 }
 
 class Input {
